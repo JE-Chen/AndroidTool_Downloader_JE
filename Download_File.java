@@ -2,7 +2,7 @@
  * Copyright (c) 2018.JE-Chen
  */
 
-package com.je_chen.je_ocr;
+package com.example.je_download_file;
 
 import android.content.Context;
 import android.os.AsyncTask;
